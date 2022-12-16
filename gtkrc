@@ -1,0 +1,6 @@
+# created by KDE Plasma, Wed Nov 2 18:48:58 2022
+#
+include "/usr/share/themes/Breeze/gtk-2.0/gtkrc"
+
+gtk-theme-name="Breeze"
+

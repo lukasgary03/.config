@@ -1,0 +1,16 @@
+game:
+  arch: win64
+  exe: drive_c/Program Files (x86)/Battle.net/Battle.net.exe
+  prefix: /home/luke/Games/battlenet
+system:
+  env:
+    DXVK_CONFIG_FILE: /home/luke/Games/battlenet/dxvk.conf
+    DXVK_STATE_CACHE_PATH: /home/luke/Games/battlenet
+    STAGING_SHARED_MEMORY: '1'
+    __GL_DXVK_OPTIMIZATIONS: '1'
+    __GL_SHADER_DISK_CACHE: '1'
+    __GL_SHADER_DISK_CACHE_PATH: /home/luke/Games/battlenet
+  exclude_processes: Agent.exe "Battle.net Helper.exe"
+  manual_command: /home/luke/Games/battlenet/state-cache-merge/state-cache-update.sh
+wine:
+  version: lutris-7.2-2-x86_64

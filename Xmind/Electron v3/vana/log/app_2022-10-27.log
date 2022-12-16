@@ -1,0 +1,90 @@
+
+-------- SESSION 2022-10-27T23:23:32.798Z (22.08.2224+202209010010, linux, x64, 33647136768, XMIND LTD., vana_linux) --------
+[I 2022-10-27T23:23:32.823Z main:store:plugins:electron] current pid is "9394"
+[I 2022-10-27T23:23:32.850Z auto-updater] current version is "22.8.2224"
+[I 2022-10-27T23:23:33.099Z main:store:plugins:electron] Application will finish launching.
+[I 2022-10-27T23:23:33.103Z main:store:plugins:electron] Application arguments: ["/opt/Xmind/xmind"]
+[I 2022-10-27T23:23:33.111Z main:store:plugins:electron] Application is ready.
+[I 2022-10-27T23:23:33.123Z main:store:plugins:open-handler] Recover: Map(0) {}
+[I 2022-10-27T23:23:33.124Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2022-10-27T23:23:33.124Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2022-10-27T23:23:33.124Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2022-10-27T23:23:33.124Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2022-10-27T23:23:33.242Z main:store:plugins:electron] Device ID: e7de247a-ffc2-4b00-9147-d3ad3133d4b3
+[I 2022-10-27T23:24:33.131Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-27T23:24:33.131Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-27T23:58:44.550Z snowbrush] Export image collect time: 7
+[I 2022-10-27T23:58:44.833Z snowbrush] Export image time: 290
+[I 2022-10-27T23:59:43.944Z snowbrush] Export image collect time: 3
+[I 2022-10-27T23:59:44.153Z snowbrush] Export image time: 212
+[I 2022-10-28T00:00:12.784Z snowbrush] Export image collect time: 4
+[I 2022-10-28T00:00:12.970Z snowbrush] Export image time: 190
+[I 2022-10-28T00:04:13.858Z snowbrush] Export image collect time: 3
+[I 2022-10-28T00:04:14.042Z snowbrush] Export image time: 187
+[I 2022-10-28T00:10:10.984Z main:store:plugins:electron] Application is intended to quit.
+[I 2022-10-28T00:10:10.984Z main:store:plugins:electron] Application status is quitting:  false
+[I 2022-10-28T00:10:10.984Z main:store:plugins:electron] Asking all editors to close their documents...
+
+-------- SESSION 2022-10-28T02:02:45.058Z (22.08.2224+202209010010, linux, x64, 33647136768, XMIND LTD., vana_linux) --------
+[I 2022-10-28T02:02:45.083Z main:store:plugins:electron] current pid is "2387"
+[I 2022-10-28T02:02:45.111Z auto-updater] current version is "22.8.2224"
+[I 2022-10-28T02:02:45.364Z main:store:plugins:electron] Application will finish launching.
+[I 2022-10-28T02:02:45.367Z main:store:plugins:electron] Application arguments: ["/opt/Xmind/xmind"]
+[I 2022-10-28T02:02:45.374Z main:store:plugins:electron] Application is ready.
+[I 2022-10-28T02:02:45.385Z main:store:plugins:open-handler] Recover: Map(1) {
+  '1' => [
+    {
+      source: 'file:///home/luke/Documents/method.xmind',
+      editorId: 'aa1b12c2573ae6372b9008bad3'
+    }
+  ]
+}
+[I 2022-10-28T02:02:45.387Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2022-10-28T02:02:45.387Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2022-10-28T02:02:45.387Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2022-10-28T02:02:45.387Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2022-10-28T02:02:45.537Z main:store:plugins:electron] Device ID: e7de247a-ffc2-4b00-9147-d3ad3133d4b3
+[I 2022-10-28T02:02:49.373Z snowbrush] Export image collect time: 5
+[I 2022-10-28T02:02:49.654Z snowbrush] Export image time: 286
+[I 2022-10-28T02:02:54.105Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2022-10-28T02:02:54.128Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/Xmind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=default
+[I 2022-10-28T02:02:54.182Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2022-10-28T02:02:54.220Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2022-10-28T02:03:45.387Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T02:03:45.388Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T02:03:56.380Z fonts] App Locale: en
+[I 2022-10-28T02:03:56.381Z fonts] start get system fonts
+[I 2022-10-28T02:03:56.707Z fonts] Failed to get system fonts: Error: Unknown font format
+[I 2022-10-28T02:03:56.786Z fonts] Failed to get system fonts: Error: Unknown font format
+[I 2022-10-28T02:03:56.823Z fonts] Consuming 442 ms to get system fonts
+[I 2022-10-28T02:08:03.322Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2022-10-28T02:08:05.337Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/Xmind/resources/app.asar/renderer/editor-frame.html?frameId=2&_apr=default
+[I 2022-10-28T02:08:05.389Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2022-10-28T02:08:05.487Z main:store:plugins:editors:EditorFrame] Frame 2 webContents destroyed
+[I 2022-10-28T02:08:10.775Z main:store:plugins:editors:EditorFrame] Frame 3 close
+[I 2022-10-28T02:08:10.790Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/Xmind/resources/app.asar/renderer/editor-frame.html?frameId=3&_apr=default
+[I 2022-10-28T02:08:10.841Z main:store:plugins:editors:EditorFrame] Frame 3 close
+[I 2022-10-28T02:08:10.876Z main:store:plugins:editors:EditorFrame] Frame 3 webContents destroyed
+[I 2022-10-28T02:08:32.318Z fonts] App Locale: en
+[I 2022-10-28T02:08:43.536Z snowbrush] Export image collect time: 3
+[I 2022-10-28T02:08:43.739Z snowbrush] Export image time: 206
+[I 2022-10-28T02:09:23.841Z snowbrush] null
+[I 2022-10-28T02:10:42.341Z snowbrush] Export image collect time: 1
+[I 2022-10-28T02:10:42.504Z snowbrush] Export image time: 164
+[I 2022-10-28T02:15:19.169Z snowbrush] Export image collect time: 2
+[I 2022-10-28T02:15:19.362Z snowbrush] Export image time: 195
+[I 2022-10-28T02:15:21.283Z main:store:plugins:editors:EditorFrame] Frame 4 close
+[I 2022-10-28T02:15:21.312Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/Xmind/resources/app.asar/renderer/editor-frame.html?frameId=4&_apr=default
+[I 2022-10-28T02:15:21.364Z main:store:plugins:editors:EditorFrame] Frame 4 close
+[I 2022-10-28T02:15:21.400Z main:store:plugins:editors:EditorFrame] Frame 4 webContents destroyed
+[I 2022-10-28T02:15:21.486Z main:store:plugins:electron] All windows closed. Quit application....
+[I 2022-10-28T02:15:21.486Z main:store:plugins:electron] Application is intended to quit.
+[I 2022-10-28T02:15:21.486Z main:store:plugins:electron] Application status is quitting:  false
+[I 2022-10-28T02:15:21.486Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2022-10-28T02:15:21.486Z main:store:plugins:electron] All documents are closed.
+[I 2022-10-28T02:15:21.486Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2022-10-28T02:15:21.486Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2022-10-28T02:15:21.488Z main:store:plugins:electron] Application is intended to quit.
+[I 2022-10-28T02:15:21.488Z main:store:plugins:electron] Application status is quitting:  true
+[I 2022-10-28T02:15:21.488Z main:store:plugins:electron] Application will quit.
+[I 2022-10-28T02:15:21.488Z main:store:plugins:electron] Application quitted.

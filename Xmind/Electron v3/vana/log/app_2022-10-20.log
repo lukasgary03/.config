@@ -1,0 +1,74 @@
+
+-------- SESSION 2022-10-20T16:15:15.954Z (22.08.2224+202209010010, linux, x64, 33647136768, XMIND LTD., vana_linux) --------
+[I 2022-10-20T16:15:15.981Z main:store:plugins:electron] current pid is "1879"
+[I 2022-10-20T16:15:16.008Z auto-updater] current version is "22.8.2224"
+[I 2022-10-20T16:15:16.269Z main:store:plugins:electron] Application will finish launching.
+[I 2022-10-20T16:15:16.272Z main:store:plugins:electron] Application arguments: ["/opt/Xmind/xmind"]
+[I 2022-10-20T16:15:16.280Z main:store:plugins:electron] Application is ready.
+[I 2022-10-20T16:15:16.291Z main:store:plugins:open-handler] Recover: Map(0) {}
+[I 2022-10-20T16:15:16.292Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2022-10-20T16:15:16.292Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2022-10-20T16:15:16.292Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2022-10-20T16:15:16.292Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2022-10-20T16:15:16.402Z main:store:plugins:electron] Device ID: e7de247a-ffc2-4b00-9147-d3ad3133d4b3
+[I 2022-10-20T16:16:16.307Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-20T16:16:16.307Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-20T16:42:47.462Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2022-10-20T16:42:47.501Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/Xmind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=default
+[I 2022-10-20T16:42:47.556Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2022-10-20T16:42:47.594Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2022-10-20T16:42:47.680Z main:store:plugins:electron] All windows closed. Quit application....
+[I 2022-10-20T16:42:47.680Z main:store:plugins:electron] Application is intended to quit.
+[I 2022-10-20T16:42:47.680Z main:store:plugins:electron] Application status is quitting:  false
+[I 2022-10-20T16:42:47.680Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2022-10-20T16:42:47.680Z main:store:plugins:electron] All documents are closed.
+[I 2022-10-20T16:42:47.681Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2022-10-20T16:42:47.681Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2022-10-20T16:42:47.682Z main:store:plugins:electron] Application is intended to quit.
+[I 2022-10-20T16:42:47.682Z main:store:plugins:electron] Application status is quitting:  true
+[I 2022-10-20T16:42:47.682Z main:store:plugins:electron] Application will quit.
+[I 2022-10-20T16:42:47.682Z main:store:plugins:electron] Application quitted.
+
+-------- SESSION 2022-10-20T23:28:35.877Z (22.08.2224+202209010010, linux, x64, 33647136768, XMIND LTD., vana_linux) --------
+[I 2022-10-20T23:28:35.904Z main:store:plugins:electron] current pid is "1884"
+[I 2022-10-20T23:28:35.932Z auto-updater] current version is "22.8.2224"
+[I 2022-10-20T23:28:36.197Z main:store:plugins:electron] Application will finish launching.
+[I 2022-10-20T23:28:36.201Z main:store:plugins:electron] Application arguments: ["/opt/Xmind/xmind"]
+[I 2022-10-20T23:28:36.208Z main:store:plugins:electron] Application is ready.
+[I 2022-10-20T23:28:36.219Z main:store:plugins:open-handler] Recover: Map(0) {}
+[I 2022-10-20T23:28:36.220Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2022-10-20T23:28:36.220Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2022-10-20T23:28:36.220Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2022-10-20T23:28:36.220Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2022-10-20T23:28:36.340Z main:store:plugins:electron] Device ID: e7de247a-ffc2-4b00-9147-d3ad3133d4b3
+[I 2022-10-20T23:29:24.143Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2022-10-20T23:29:24.182Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/Xmind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=default
+[I 2022-10-20T23:29:24.236Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2022-10-20T23:29:24.277Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2022-10-20T23:29:36.220Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-20T23:29:36.220Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-20T23:30:20.531Z fonts] App Locale: en
+[I 2022-10-20T23:30:20.531Z fonts] start get system fonts
+[I 2022-10-20T23:30:20.873Z fonts] Failed to get system fonts: Error: Unknown font format
+[I 2022-10-20T23:30:20.944Z fonts] Failed to get system fonts: Error: Unknown font format
+[I 2022-10-20T23:30:20.969Z fonts] Consuming 438 ms to get system fonts
+[I 2022-10-20T23:33:03.089Z snowbrush] null
+[I 2022-10-20T23:42:39.882Z snowbrush] null
+[I 2022-10-20T23:42:40.439Z snowbrush] null
+[I 2022-10-20T23:57:03.612Z snowbrush] Export image collect time: 5
+[I 2022-10-20T23:57:03.914Z snowbrush] Export image time: 307
+[I 2022-10-20T23:57:05.955Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2022-10-20T23:57:05.966Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/Xmind/resources/app.asar/renderer/editor-frame.html?frameId=2&_apr=default
+[I 2022-10-20T23:57:06.015Z main:store:plugins:editors:EditorFrame] Frame 2 close
+[I 2022-10-20T23:57:06.051Z main:store:plugins:editors:EditorFrame] Frame 2 webContents destroyed
+[I 2022-10-20T23:57:06.143Z main:store:plugins:electron] All windows closed. Quit application....
+[I 2022-10-20T23:57:06.143Z main:store:plugins:electron] Application is intended to quit.
+[I 2022-10-20T23:57:06.143Z main:store:plugins:electron] Application status is quitting:  false
+[I 2022-10-20T23:57:06.143Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2022-10-20T23:57:06.143Z main:store:plugins:electron] All documents are closed.
+[I 2022-10-20T23:57:06.143Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2022-10-20T23:57:06.143Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2022-10-20T23:57:06.144Z main:store:plugins:electron] Application is intended to quit.
+[I 2022-10-20T23:57:06.144Z main:store:plugins:electron] Application status is quitting:  true
+[I 2022-10-20T23:57:06.144Z main:store:plugins:electron] Application will quit.
+[I 2022-10-20T23:57:06.144Z main:store:plugins:electron] Application quitted.

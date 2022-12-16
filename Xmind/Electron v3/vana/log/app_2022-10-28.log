@@ -1,0 +1,94 @@
+
+-------- SESSION 2022-10-28T13:56:50.395Z (22.08.2224+202209010010, linux, x64, 33647136768, XMIND LTD., vana_linux) --------
+[I 2022-10-28T13:56:50.421Z main:store:plugins:electron] current pid is "1695"
+[I 2022-10-28T13:56:50.449Z auto-updater] current version is "22.8.2224"
+[I 2022-10-28T13:56:50.703Z main:store:plugins:electron] Application will finish launching.
+[I 2022-10-28T13:56:50.706Z main:store:plugins:electron] Application arguments: ["/opt/Xmind/xmind"]
+[I 2022-10-28T13:56:50.713Z main:store:plugins:electron] Application is ready.
+[I 2022-10-28T13:56:50.724Z main:store:plugins:open-handler] Recover: Map(0) {}
+[I 2022-10-28T13:56:50.724Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2022-10-28T13:56:50.725Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2022-10-28T13:56:50.725Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2022-10-28T13:56:50.725Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2022-10-28T13:56:50.836Z main:store:plugins:electron] Device ID: e7de247a-ffc2-4b00-9147-d3ad3133d4b3
+[I 2022-10-28T13:57:50.725Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T13:57:50.726Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T14:02:54.188Z snowbrush] Export image collect time: 4
+[I 2022-10-28T14:02:54.418Z snowbrush] Export image time: 234
+[I 2022-10-28T14:03:15.813Z snowbrush] Export image collect time: 4
+[I 2022-10-28T14:03:16.006Z snowbrush] Export image time: 197
+[I 2022-10-28T14:03:23.019Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2022-10-28T14:03:23.035Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/Xmind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=default
+[I 2022-10-28T14:03:23.087Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2022-10-28T14:03:23.122Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2022-10-28T14:23:39.633Z snowbrush] Export image collect time: 7
+[I 2022-10-28T14:23:39.869Z snowbrush] Export image time: 243
+[I 2022-10-28T14:28:31.101Z snowbrush] Export image collect time: 3
+[I 2022-10-28T14:28:31.278Z snowbrush] Export image time: 180
+[I 2022-10-28T14:29:53.536Z snowbrush] Export image collect time: 4
+[I 2022-10-28T14:29:53.734Z snowbrush] Export image time: 202
+[I 2022-10-28T14:31:35.527Z snowbrush] Export image collect time: 3
+[I 2022-10-28T14:31:35.704Z snowbrush] Export image time: 180
+[I 2022-10-28T14:31:59.792Z snowbrush] Export image collect time: 4
+[I 2022-10-28T14:31:59.973Z snowbrush] Export image time: 186
+[I 2022-10-28T14:32:26.618Z snowbrush] Export image collect time: 3
+[I 2022-10-28T14:32:26.791Z snowbrush] Export image time: 176
+[I 2022-10-28T14:33:08.802Z snowbrush] Export image collect time: 4
+[I 2022-10-28T14:33:08.983Z snowbrush] Export image time: 185
+[I 2022-10-28T14:47:01.013Z snowbrush] Export image collect time: 3
+[I 2022-10-28T14:47:01.193Z snowbrush] Export image time: 183
+[I 2022-10-28T14:53:18.023Z snowbrush] Export image collect time: 7
+[I 2022-10-28T14:53:18.213Z snowbrush] Export image time: 197
+[I 2022-10-28T14:57:50.784Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T14:57:50.784Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T15:28:46.814Z snowbrush] db write {
+  'text/plain': 'bgp.bezeqint.net',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-10-28T15:33:45.062Z snowbrush] Export image collect time: 7
+[I 2022-10-28T15:33:45.253Z snowbrush] Export image time: 197
+[I 2022-10-28T15:57:50.786Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T15:57:50.786Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T16:57:50.834Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T16:57:50.834Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T17:26:40.373Z snowbrush] db write {
+  'text/plain': 'https://hackertarget.com/as-ip-lookup/',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-10-28T17:42:47.906Z snowbrush] Export image collect time: 7
+[I 2022-10-28T17:42:48.098Z snowbrush] Export image time: 199
+[I 2022-10-28T17:57:50.869Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T17:57:50.870Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T18:57:50.907Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T18:57:50.907Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T19:57:50.923Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T19:57:50.923Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T20:57:50.928Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T20:57:50.928Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T21:57:50.972Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T21:57:50.972Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T22:57:51.014Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T22:57:51.015Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T23:57:51.053Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-28T23:57:51.053Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-29T00:57:51.091Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-29T00:57:51.091Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-10-29T01:57:19.729Z snowbrush] Export image collect time: 7
+[I 2022-10-29T01:57:19.920Z snowbrush] Export image time: 198
+[I 2022-10-29T01:57:22.289Z main:store:plugins:electron] Application is intended to quit.

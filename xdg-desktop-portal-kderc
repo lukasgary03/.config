@@ -1,0 +1,8 @@
+[FileDialogSize]
+DisplayPort-0 HDMI-A-0 Height 2560x1080=480
+DisplayPort-0 HDMI-A-0 Width 2560x1080=640
+
+[KFileDialog Settings]
+Recent Files[$e]=Faceplate_Bracket_Rounded_Edge_74.5mm.stl,file:$HOME/Downloads/Servo_Mount_MK85_TowerPro_MG90s.stl,file:$HOME/Downloads/Servo_Mount_MK85_Clone_TowerPro_MG90s.stl,file:$HOME/Downloads/Helper_Arm_Standard.stl,file:$HOME/Downloads/Servo_Horn_Arm_60mm_-_4mm_Hole.stl,file:$HOME/Downloads/Servo_Horn_Arm_Geared_60mm.stl,file:$HOME/Downloads/Servo_Horn_Arm_Cap.stl,file:$HOME/Downloads/Servo_Alignment_Tool_MK85.stl,file:$HOME/Downloads/Helper_Arm_Mount_M4.stl,file:$HOME/Downloads/Helper_Arm_Mount_M3.stl,file:$HOME/Downloads/Helper_Arm_Alignment_Tool_Part_B.stl,file:$HOME/Downloads/Helper_Arm_Alignment_Tool_Part_A.stl,file:$HOME/Downloads/Faceplate_Bracket_Square_Edge_74.5mm.stl,file:$HOME/Downloads/Faceplate_Bracket_Rounded_Edge_74.5mm.stl
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/Documents/
+detailViewIconSize=16

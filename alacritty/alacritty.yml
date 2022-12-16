@@ -1,0 +1,97 @@
+#env:
+#  TERM: xterm-256color
+
+#window:
+#  dimensions:
+#    columns: 100
+#    lines: 30
+#  dynamic_padding: true
+#  decorations: full
+#  title: Alacritty@Garuda
+#  opacity: 0.6
+#  class:
+#    instance: Alacritty
+#    general: Alacritty
+#  gtk_theme_variant: dark
+
+#scrolling:
+#  history: 10000
+#  multiplier: 3
+
+font:
+  size: 12
+  normal:
+    family: "Hack"
+    style: Regular
+  bold:
+    family: "Hack"
+    style: Regular 
+  italic:
+    family: "Hack"
+    style: Regular
+  bold_italic:
+    family: "Hack"
+    style: Regular
+    size: 12.0
+
+#draw_bold_text_with_bright_colors: true
+
+save_to_clipboard: true
+
+#window.dynamic_title: true
+
+#cursor:
+#  style: Underline
+
+#live_config_reload: true
+
+#shell:
+#  program: /usr/bin/fish
+#  args:
+#    - --login
+
+#window_opacity: 0.5
+
+#mouse:
+#  hide_when_typing: true
+
+key_bindings:
+    # (Windows, Linux, and BSD only)
+  - { key: V,        mods: Control, action: Paste            }
+  - { key: C,        mods: Control, action: Copy             }
+  - { key: Insert,   mods: Shift,         action: PasteSelection   }
+  - { key: Key0,     mods: Control,       action: ResetFontSize    }
+  - { key: Equals,   mods: Control,       action: IncreaseFontSize }
+  - { key: Plus,     mods: Control,       action: IncreaseFontSize }
+  - { key: Minus,    mods: Control,       action: DecreaseFontSize }
+  - { key: Minus,    mods: Control,       action: DecreaseFontSize }
+
+colors:
+  primary:
+    background: '#1d1f21'
+    foreground: '#c5c8c6'
+  cursor:
+    text:       '0x0a1124'
+    cursor:     '0xeec49a'
+  normal:
+    black:      '#282a2e'
+    red:        '#a54242'
+    green:      '#8c9440'
+    yellow:     '#de935f'
+    blue:       '#5f819d'
+    magenta:    '#85678f'
+    cyan:       '#5e8d87'
+    white:      '#707880'
+  bright:
+    black:      '#373b41'
+    red:        '#cc6666'
+    green:      '#b5bd68'
+    yellow:     '#f0c674'
+    blue:       '#81a2be'
+    magenta:    '#b294bb'
+    cyan:       '#8abeb7'
+    white:      '#c5c8c6'
+
+
+window:
+  opacity: 1

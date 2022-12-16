@@ -1,0 +1,22 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+
+[MainWindow]
+HDMI-A-0 HDMI-A-1 Height 2560x1080=1031
+HDMI-A-0 HDMI-A-1 Width 2560x1080=1261
+HDMI-A-0 HDMI-A-1 XPosition 2560x1080=2366
+HDMI-A-0 HDMI-A-1 YPosition 2560x1080=36
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABO0AAAPiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/lukas_wide.PNG
+Name1[$e]=lukas_wide.PNG

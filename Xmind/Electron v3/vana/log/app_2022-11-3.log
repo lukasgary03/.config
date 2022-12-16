@@ -1,0 +1,762 @@
+
+-------- SESSION 2022-11-03T23:20:49.505Z (22.08.2224+202209010010, linux, x64, 33578983424, XMIND LTD., vana_linux) --------
+[I 2022-11-03T23:20:49.601Z main:store:plugins:electron] current pid is "1870"
+[I 2022-11-03T23:20:49.635Z auto-updater] current version is "22.8.2224"
+[I 2022-11-03T23:20:49.902Z main:store:plugins:electron] Application will finish launching.
+[I 2022-11-03T23:20:49.907Z main:store:plugins:electron] Application arguments: ["/opt/Xmind/xmind"]
+[I 2022-11-03T23:20:49.917Z main:store:plugins:electron] Application is ready.
+[I 2022-11-03T23:20:49.929Z main:store:plugins:open-handler] Recover: Map(0) {}
+[I 2022-11-03T23:20:49.930Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2022-11-03T23:20:49.930Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2022-11-03T23:20:49.930Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2022-11-03T23:20:49.930Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2022-11-03T23:20:50.047Z main:store:plugins:electron] Device ID: e7de247a-ffc2-4b00-9147-d3ad3133d4b3
+[I 2022-11-03T23:21:49.929Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-11-03T23:21:49.930Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-11-03T23:24:42.747Z fonts] App Locale: en
+[I 2022-11-03T23:24:42.747Z fonts] start get system fonts
+[I 2022-11-03T23:24:43.222Z fonts] Consuming 475 ms to get system fonts
+[I 2022-11-03T23:24:52.691Z snowbrush] db write {
+  'text/plain': 'https://sandbox.payoneer.com\r\n' +
+    'https://payoneer.com\r\n' +
+    'http://sandbox.payoneer.com\r\n' +
+    'https://urlvalidation.payoneer.com\r\n' +
+    'https://externaltokenservice.sandbox.payoneer.com\r\n' +
+    'https://emailverificationapi.sandbox.payoneer.com\r\n' +
+    'https://share.sandbox.payoneer.com\r\n' +
+    'http://payoneer.com\r\n' +
+    'https://loginapi.sandbox.payoneer.com\r\n' +
+    'https://link.sandbox.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:26:37.358Z snowbrush] db write {
+  'text/plain': 'https://sandbox.payoneer.com\r\n' +
+    'https://payoneer.com\r\n' +
+    'http://sandbox.payoneer.com\r\n' +
+    'https://urlvalidation.payoneer.com\r\n' +
+    'https://externaltokenservice.sandbox.payoneer.com\r\n' +
+    'https://emailverificationapi.sandbox.payoneer.com\r\n' +
+    'https://share.sandbox.payoneer.com\r\n' +
+    'http://payoneer.com\r\n' +
+    'https://loginapi.sandbox.payoneer.com\r\n' +
+    'https://link.sandbox.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:33:43.962Z snowbrush] db write {
+  'text/plain': 'https://share.sandbox.payoneer.com',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:34:17.870Z snowbrush] db write {
+  'text/plain': 'https://loginapi.sandbox.payoneer.com',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:34:25.216Z main:store:plugins:editors:EditorView] User cancel closing editor
+[I 2022-11-03T23:34:30.097Z snowbrush] Export image collect time: 36
+[I 2022-11-03T23:34:30.622Z snowbrush] Export image time: 561
+[I 2022-11-03T23:37:42.861Z snowbrush] db write {
+  'text/plain': 'nothing but favicon',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:38:00.828Z snowbrush] db write {
+  'text/plain': 'http://urlvalidation.payoneer.com\r\n' +
+    'http://share.sandbox.payoneer.com\r\n' +
+    'http://link.sandbox.payoneer.com\r\n' +
+    'http://loginapi.sandbox.payoneer.com\r\n' +
+    'https://partners.sandbox.payoneer.com\r\n' +
+    'https://engineering.payoneer.com\r\n' +
+    'https://customerfiles.qa.payoneer.com\r\n' +
+    'http://partners.sandbox.payoneer.com\r\n' +
+    'https://login.sandbox.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:38:47.507Z snowbrush] db write {
+  'text/plain': 'nothing but favicon',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:38:53.392Z snowbrush] db write {
+  'text/plain': 'raw json? displaying message. maybe try injecting',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:39:08.983Z snowbrush] db write {
+  'text/plain': '404 error',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:39:16.446Z snowbrush] db write {
+  'text/plain': 'nothing but favicon',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:42:54.199Z snowbrush] db write {
+  'text/plain': 'https://filesapi.sandbox.payoneer.com\r\n' +
+    'http://engineering.payoneer.com\r\n' +
+    'http://login.sandbox.payoneer.com\r\n' +
+    'http://filesapi.sandbox.payoneer.com\r\n' +
+    'http://customerfiles.qa.payoneer.com\r\n' +
+    'http://externaltokenservice.sandbox.payoneer.com\r\n' +
+    'http://emailverificationapi.sandbox.payoneer.com\r\n' +
+    'https://share.payoneer.com\r\n' +
+    'https://fdcapplicationapi.sandbox.payoneer.com\r\n' +
+    'http://share.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:44:48.064Z snowbrush] Export image collect time: 32
+[I 2022-11-03T23:44:48.455Z snowbrush] Export image time: 423
+[I 2022-11-03T23:46:21.809Z snowbrush] Export image collect time: 35
+[I 2022-11-03T23:46:22.239Z snowbrush] Export image time: 465
+[I 2022-11-03T23:46:30.832Z snowbrush] db write {
+  'text/plain': 'http://fdcapplicationapi.sandbox.payoneer.com\r\n' +
+    'https://brand.payoneer.com\r\n' +
+    'https://dyntest.payoneer.com\r\n' +
+    'http://brand.payoneer.com\r\n' +
+    'https://activity-demo.sandbox.payoneer.com\r\n' +
+    'http://activity-demo.sandbox.payoneer.com\r\n' +
+    'https://register.payoneer.com\r\n' +
+    'http://register.payoneer.com\r\n' +
+    'https://design.payoneer.com\r\n' +
+    'http://design.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:46:59.832Z snowbrush] Export image collect time: 53
+[I 2022-11-03T23:47:00.221Z snowbrush] Export image time: 443
+[I 2022-11-03T23:49:29.179Z snowbrush] db write {
+  'text/plain': 'https://hackerone.com/payoneer?type=team',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:50:26.514Z snowbrush] Export image collect time: 33
+[I 2022-11-03T23:50:26.900Z snowbrush] Export image time: 419
+[I 2022-11-03T23:50:51.752Z snowbrush] db write {
+  'text/plain': 'https://activity-demo.sandbox.payoneer.com\r\n' +
+    '\thave access to demo account...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:52:39.278Z snowbrush] db write {
+  'text/plain': 'http://share.sandbox.payoneer.com\r\n\t404 error',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:55:03.924Z snowbrush] db write {
+  'text/plain': 'https://signup.sandbox.payoneer.com\r\n' +
+    'http://signup.sandbox.payoneer.com\r\n' +
+    'https://myinfo.sandbox.payoneer.com\r\n' +
+    'https://payouts.sandbox.payoneer.com\r\n' +
+    'http://myinfo.sandbox.payoneer.com\r\n' +
+    'http://payouts.sandbox.payoneer.com\r\n' +
+    'http://stageblog.payoneer.com\r\n' +
+    'https://birthright.sandbox.payoneer.com\r\n' +
+    'https://it.payoneer.com\r\n' +
+    'http://birthright.sandbox.payoneer.com\r\n' +
+    'https://explore.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:56:43.768Z snowbrush] Export image collect time: 55
+[I 2022-11-03T23:56:44.149Z snowbrush] Export image time: 436
+[I 2022-11-03T23:56:48.500Z snowbrush] db write {
+  'text/plain': 'https://birthright.sandbox.payoneer.com',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:58:29.077Z snowbrush] db write {
+  'text/plain': 'https://filesapi.dev.payoneer.com\r\n' +
+    'http://filesapi.dev.payoneer.com\r\n' +
+    'https://filesapi.qa.payoneer.com\r\n' +
+    'http://it.payoneer.com\r\n' +
+    'http://filesapi.qa.payoneer.com\r\n' +
+    'https://vatapi.sandbox.payoneer.com\r\n' +
+    'http://vatapi.sandbox.payoneer.com\r\n' +
+    'https://api.sandbox.payoneer.com\r\n' +
+    'https://pay.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-03T23:59:46.502Z snowbrush] db write {
+  'text/plain': 'forbidden',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-04T00:00:15.419Z snowbrush] Export image collect time: 50
+[I 2022-11-04T00:00:15.794Z snowbrush] Export image time: 426
+[I 2022-11-04T00:00:47.281Z snowbrush] Export image collect time: 59
+[I 2022-11-04T00:00:47.632Z snowbrush] Export image time: 410
+[I 2022-11-04T00:01:07.862Z snowbrush] db write {
+  'text/plain': 'http://api.sandbox.payoneer.com\r\n' +
+    'http://pay.payoneer.com\r\n' +
+    'https://blog.payoneer.com\r\n' +
+    'http://blog.payoneer.com\r\n' +
+    'https://vat.payoneer.com\r\n' +
+    'http://vat.payoneer.com\r\n' +
+    'https://apiecert.payoneer.com\r\n' +
+    'https://downloads.payoneer.com\r\n' +
+    'https://pubs.payoneer.com\r\n' +
+    'http://downloads.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-04T00:02:37.828Z snowbrush] Export image collect time: 31
+[I 2022-11-04T00:02:38.212Z snowbrush] Export image time: 415
+[I 2022-11-04T00:02:42.682Z snowbrush] db write {
+  'text/plain': 'https://discover.payoneer.com\r\n' +
+    'http://pubs.payoneer.com\r\n' +
+    'http://discover.payoneer.com\r\n' +
+    'http://apiecert.payoneer.com\r\n' +
+    'https://loginapi.payoneer.com\r\n' +
+    'https://social.payoneer.com\r\n' +
+    'http://loginapi.payoneer.com\r\n' +
+    'https://psd2-api.payoneer.com\r\n' +
+    'https://status.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-04T00:03:46.943Z snowbrush] db write {
+  'text/plain': 'https://social.payoneer.com',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-04T00:04:01.538Z snowbrush] Export image collect time: 36
+[I 2022-11-04T00:04:01.954Z snowbrush] Export image time: 452
+[I 2022-11-04T00:05:17.832Z snowbrush] db write {
+  'text/plain': 'https://ma.payoneer.com\r\n' +
+    'https://api.payoneer.com\r\n' +
+    'https://taxformsapi.payoneer.com\r\n' +
+    'http://psd2-api.payoneer.com\r\n' +
+    'http://status.payoneer.com\r\n' +
+    'https://xero.payoneer.com\r\n' +
+    'http://ma.payoneer.com\r\n' +
+    'http://zendesk2.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-04T00:08:10.514Z snowbrush] db write {
+  'text/plain': 'https://filesapi.payoneer.com\r\n' +
+    'https://urlvalidation.sandbox.payoneer.com\r\n' +
+    'https://auth.payoneer.com\r\n' +
+    'https://vatapi.payoneer.com\r\n' +
+    'http://api.payoneer.com\r\n' +
+    'http://taxformsapi.payoneer.com\r\n' +
+    'https://tracking.payoneer.com\r\n' +
+    'https://customerfiles.payoneer.com\r\n' +
+    'http://filesapi.payoneer.com\r\n' +
+    'http://urlvalidation.sandbox.payoneer.com\r\n' +
+    'http://auth.payoneer.com\r\n' +
+    'http://vatapi.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-04T00:10:25.925Z snowbrush] db write {
+  'text/plain': 'http://tracking.payoneer.com\r\n' +
+    'https://myinfo.payoneer.com\r\n' +
+    'http://customerfiles.payoneer.com\r\n' +
+    'http://xero.payoneer.com\r\n' +
+    'http://zendesk3.payoneer.com\r\n' +
+    'http://myinfo.payoneer.com\r\n' +
+    'https://assetsapi.payoneer.com\r\n' +
+    'http://assetsapi.payoneer.com\r\n' +
+    'https://www2.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-04T00:11:42.884Z snowbrush] db write {
+  'text/plain': 'https://fdcapplicationapi.payoneer.com\r\n' +
+    'https://mobile.payoneer.com\r\n' +
+    'http://mobile.payoneer.com\r\n' +
+    'https://callbackapi.payoneer.com\r\n' +
+    'https://join.payoneer.com\r\n' +
+    'https://payouts.payoneer.com\r\n' +
+    'http://callbackapi.payoneer.com\r\n' +
+    'http://join.payoneer.com\r\n' +
+    'https://affiliates.payoneer.com\r\n' +
+    'https://www.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-04T00:13:58.122Z snowbrush] db write {
+  'text/plain': 'http://payouts.payoneer.com\r\n' +
+    'https://sip.payoneer.com\r\n' +
+    'http://www.payoneer.com\r\n' +
+    'http://affiliates.payoneer.com\r\n' +
+    'https://sl.payoneer.com\r\n' +
+    'https://account.payoneer.com\r\n' +
+    'https://docs.payoneer.com\r\n' +
+    'https://api1.payoneer.com\r\n' +
+    'https://birthright.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-04T00:16:08.227Z snowbrush] db write {
+  'text/plain': 'https://signup.payoneer.com\r\n' +
+    'http://signup.payoneer.com\r\n' +
+    'https://paynow.payoneer.com\r\n' +
+    'https://myaccount.payoneer.com\r\n' +
+    'https://mobileapi.payoneer.com\r\n' +
+    'https://login.payoneer.com\r\n' +
+    'http://api1.payoneer.com\r\n' +
+    'http://paynow.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-04T00:17:46.915Z snowbrush] db write {
+  'text/plain': 'http://mobileapi.payoneer.com\r\n' +
+    'http://login.payoneer.com\r\n' +
+    'http://zendesk1.payoneer.com\r\n' +
+    'https://pa.payoneer.com\r\n' +
+    'https://customerfiles.sandbox.payoneer.com\r\n' +
+    'http://pa.payoneer.com\r\n' +
+    'https://files.payoneer.com\r\n' +
+    'http://customerfiles.sandbox.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-04T00:18:41.134Z snowbrush] Export image collect time: 32
+[I 2022-11-04T00:18:41.514Z snowbrush] Export image time: 412
+[I 2022-11-04T00:19:15.755Z snowbrush] db write {
+  'text/plain': 'https://www1.payoneer.com\r\n' +
+    'http://files.payoneer.com\r\n' +
+    'http://www1.payoneer.com\r\n' +
+    'https://files.sandbox.payoneer.com\r\n' +
+    'https://link.payoneer.com\r\n' +
+    'http://link.payoneer.com\r\n' +
+    'http://files.sandbox.payoneer.com\r\n' +
+    'https://beta.payoneer.com\r\n' +
+    'https://uptime.payoneer.com\r\n' +
+    'https://ivrservice.payoneer.com\r\n' +
+    'http://uptime.payoneer.com',
+  'text/x-array-json': [
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] },
+    { data: [Object], xapPaths: [] }
+  ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-04T00:20:30.177Z snowbrush] Export image collect time: 35
+[I 2022-11-04T00:20:30.593Z snowbrush] Export image time: 452
+[I 2022-11-04T00:21:49.966Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-11-04T00:21:49.966Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-11-04T01:21:50.024Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-11-04T01:21:50.024Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-11-04T01:39:59.657Z snowbrush] db write {
+  'text/plain': 'https://activity-demo.sandbox.payoneer.com\r\n' +
+    '\thave access to demo account...',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-11-04T01:41:56.781Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2022-11-04T01:41:56.922Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/Xmind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=default
+[I 2022-11-04T01:41:56.976Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2022-11-04T01:41:57.024Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2022-11-04T01:41:57.112Z main:store:plugins:electron] All windows closed. Quit application....
+[I 2022-11-04T01:41:57.112Z main:store:plugins:electron] Application is intended to quit.
+[I 2022-11-04T01:41:57.112Z main:store:plugins:electron] Application status is quitting:  false
+[I 2022-11-04T01:41:57.112Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2022-11-04T01:41:57.112Z main:store:plugins:electron] All documents are closed.
+[I 2022-11-04T01:41:57.112Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2022-11-04T01:41:57.112Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2022-11-04T01:41:57.113Z main:store:plugins:electron] Application is intended to quit.
+[I 2022-11-04T01:41:57.113Z main:store:plugins:electron] Application status is quitting:  true
+[I 2022-11-04T01:41:57.113Z main:store:plugins:electron] Application will quit.
+[I 2022-11-04T01:41:57.113Z main:store:plugins:electron] Application quitted.

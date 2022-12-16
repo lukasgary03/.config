@@ -1,0 +1,5 @@
+2022/08/28-18:28:45.200 875 Reusing MANIFEST /home/luke/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/08/28-18:28:45.200 875 Recovering log #4
+2022/08/28-18:28:45.201 875 Level-0 table #6: started
+2022/08/28-18:28:45.208 875 Level-0 table #6: 1107189 bytes OK
+2022/08/28-18:28:45.210 875 Delete type=0 #4
