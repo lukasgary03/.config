@@ -1,0 +1,31 @@
+20:02:23.956693 Log continuation - Log started 2022-12-21T19:33:48.803055000Z
+20:02:33.394166 GUI: UIMediumEnumerator: Medium-enumeration finished!
+20:02:34.580695 GUI: UIMediumEnumerator: Medium-enumeration finished!
+20:02:37.385990 GUI: UIMediumEnumerator: Medium-enumeration finished!
+20:02:37.958507 GUI: UIMediumEnumerator: Medium-enumeration finished!
+20:03:02.252540 GUI: UIMediumEnumerator: Medium-enumeration finished!
+20:05:25.050689 GUI: UIMediumEnumerator: Medium-enumeration finished!
+20:25:25.915683 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 9x973 x 1054x930
+20:25:26.781489 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 9x1448 x 1054x455
+20:25:26.793574 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 9x1711 x 1054x192
+20:25:31.791302 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 9x973 x 1054x930
+20:25:32.779993 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 9x658 x 1054x620
+20:25:32.787476 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 9x1606 x 1054x297
+20:29:30.222280 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1936x32 x 841x1031
+20:29:31.202640 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 2790x32 x 272x1031
+20:29:31.206352 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 2506x32 x 272x1031
+20:29:31.655761 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 2789x32 x 834x1031
+20:29:32.522770 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 3130x32 x 493x1031
+20:29:32.522787 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 2618x32 x 500x1031
+20:30:41.429693 GUI: UIMediumEnumerator: Medium-enumeration finished!
+20:30:49.514452 GUI: UIMediumEnumerator: Medium-enumeration finished!
+20:30:49.547856 GUI: Updating snapshot tree after TAKING snapshot with MachineID={{cdccf134-ed36-4dbd-b19f-e10595191cab}}, SnapshotID={{8d03d0e1-76e3-4f3c-a483-9e5ff1286d05}}...
+20:30:49.548042 GUI: Snapshot tree update failed! Rebuilding from scratch...
+20:30:49.566684 GUI: UIMediumEnumerator: Medium-enumeration finished!
+20:36:37.956833 GUI: UIMediumEnumerator: Medium-enumeration finished!
+20:37:30.360616 GUI: UIMediumEnumerator: Medium-enumeration finished!
+20:37:33.628153 GUI: UIMediumEnumerator: Medium-enumeration finished!
+20:37:33.639080 GUI: UIMediumEnumerator: Medium-enumeration finished!
+20:39:12.190009 GUI: UIMediumEnumerator: Medium-enumeration finished!
+20:39:16.720385 GUI: UICommon: Handling aboutToQuit request..
+20:39:17.198581 GUI: UICommon: aboutToQuit request handled!

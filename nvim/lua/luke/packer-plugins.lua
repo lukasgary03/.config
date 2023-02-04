@@ -43,8 +43,11 @@ return require('packer').startup(function()
     -- packer can manage itself
     use 'wbthomason/packer.nvim'
 
-    --nvim-tree
-    use "kyazdani42/nvim-tree.lua"
+    -- nvim tree  go here
+    use 'nvim-tree/nvim-tree.lua'
+
+    -- nvim tree file icons
+    use 'nvim-tree/nvim-web-devicons'
 
     --colorscheme
     use 'gruvbox-community/gruvbox'

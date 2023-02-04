@@ -1,0 +1,30 @@
+
+-------- SESSION 2023-01-14T16:32:28.116Z (22.08.2224+202209010010, linux, x64, 33573429248, XMIND LTD., vana_linux) --------
+[I 2023-01-14T16:32:28.145Z main:store:plugins:electron] current pid is "5872"
+[I 2023-01-14T16:32:28.172Z auto-updater] current version is "22.8.2224"
+[I 2023-01-14T16:32:28.538Z main:store:plugins:electron] Application will finish launching.
+[I 2023-01-14T16:32:28.543Z main:store:plugins:electron] Application arguments: ["/opt/Xmind/xmind"]
+[I 2023-01-14T16:32:28.552Z main:store:plugins:electron] Application is ready.
+[I 2023-01-14T16:32:28.564Z main:store:plugins:open-handler] Recover: Map(0) {}
+[I 2023-01-14T16:32:28.565Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2023-01-14T16:32:28.565Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2023-01-14T16:32:28.565Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2023-01-14T16:32:28.565Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2023-01-14T16:32:28.718Z main:store:plugins:electron] Device ID: e7de247a-ffc2-4b00-9147-d3ad3133d4b3
+[I 2023-01-14T16:33:28.569Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2023-01-14T16:33:28.570Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2023-01-14T16:35:37.161Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2023-01-14T16:35:37.235Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/Xmind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=default
+[I 2023-01-14T16:35:37.303Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2023-01-14T16:35:37.343Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2023-01-14T16:35:37.428Z main:store:plugins:electron] All windows closed. Quit application....
+[I 2023-01-14T16:35:37.428Z main:store:plugins:electron] Application is intended to quit.
+[I 2023-01-14T16:35:37.428Z main:store:plugins:electron] Application status is quitting:  false
+[I 2023-01-14T16:35:37.428Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2023-01-14T16:35:37.429Z main:store:plugins:electron] All documents are closed.
+[I 2023-01-14T16:35:37.429Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2023-01-14T16:35:37.429Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2023-01-14T16:35:37.430Z main:store:plugins:electron] Application is intended to quit.
+[I 2023-01-14T16:35:37.430Z main:store:plugins:electron] Application status is quitting:  true
+[I 2023-01-14T16:35:37.430Z main:store:plugins:electron] Application will quit.
+[I 2023-01-14T16:35:37.430Z main:store:plugins:electron] Application quitted.

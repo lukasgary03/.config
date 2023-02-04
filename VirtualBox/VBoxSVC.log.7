@@ -1,0 +1,59 @@
+00:00:00.000426 main     VirtualBox XPCOM Server 7.0.4 r154605 linux.amd64 (Nov 18 2022 12:54:46) release log
+00:00:00.000427 main     Log opened 2023-01-16T15:32:14.444803000Z
+00:00:00.000427 main     Build Type: release
+00:00:00.000428 main     OS Product: Linux
+00:00:00.000428 main     OS Release: 6.1.1-1-MANJARO
+00:00:00.000429 main     OS Version: #1 SMP PREEMPT_DYNAMIC Wed Dec 21 23:21:50 UTC 2022
+00:00:00.000438 main     DMI Product Name: MS-7C37
+00:00:00.000442 main     DMI Product Version: 3.0
+00:00:00.000445 main     Firmware type: UEFI
+00:00:00.000487 main     Secure Boot: Disabled
+00:00:00.000499 main     Host RAM: 32018MB (31.2GB) total, 30189MB (29.4GB) available
+00:00:00.000501 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000501 main     Process ID: 3418
+00:00:00.000501 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.000953 main     IPC socket path: /tmp/.vbox-luke-ipc/ipcd
+00:00:00.104391 nspr-2   VirtualBox: object creation starts
+00:00:00.104756 nspr-2   Home directory: '/home/luke/.config/VirtualBox'
+00:00:00.105044 nspr-2   Loading settings file "/home/luke/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.107035 nspr-2   USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0025)
+00:00:00.107104 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.112252 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.112548 nspr-2   HostDnsMonitor: initializing
+00:00:00.112641 nspr-2   NAT: resolv.conf: nameserver 192.168.1.254
+00:00:00.112646 nspr-2   NAT: resolv.conf: nameserver 2600:1700:4e68:6010::1
+00:00:00.112649 nspr-2   HostDnsMonitor: updating information
+00:00:00.112654 nspr-2   HostDnsMonitor: old information
+00:00:00.112655 nspr-2     no server entries
+00:00:00.112656 nspr-2     no domain set
+00:00:00.112657 nspr-2     no search string entries
+00:00:00.112658 nspr-2   HostDnsMonitor: new information
+00:00:00.112659 nspr-2     server 1: 192.168.1.254
+00:00:00.112661 nspr-2     server 2: 2600:1700:4e68:6010::1
+00:00:00.112662 nspr-2     domain: attlocal.net
+00:00:00.112663 nspr-2     search string 1: attlocal.net
+00:00:00.114939 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.115184 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={aac6c7cb-a371-4c58-ab51-0616896b2f2c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.116944 nspr-2   Loading settings file "/home/luke/VirtualBox VMs/PFSense/PFSense.vbox" with version "1.19-linux"
+00:00:00.117761 nspr-2   Loading settings file "/home/luke/VirtualBox VMs/HomeLab Domain Controller/HomeLab Domain Controller.vbox" with version "1.19-linux"
+00:00:00.118701 nspr-2   Loading settings file "/home/luke/VirtualBox VMs/HomeLab Workstation/HomeLab Workstation.vbox" with version "1.19-linux"
+00:00:00.119062 nspr-2   VirtualBox: object created
+00:00:00.126935 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:05.127619 main     VirtualBox: object deletion starts
+00:00:05.127651 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/luke/VirtualBox VMs/PFSense/PFSense.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:05.127772 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/luke/VirtualBox VMs/HomeLab Domain Controller/Snapshots/{bac9f2d8-986d-4485-87db-0bf1fe9ec889}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:05.127780 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/luke/VirtualBox VMs/HomeLab Domain Controller/Snapshots/{b6d75108-44b7-438c-9647-ad2c7fca23de}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:05.127792 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/luke/VirtualBox VMs/HomeLab Domain Controller/Snapshots/{f604a810-8bfe-4979-b07f-a0857afcecad}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:05.127797 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/luke/VirtualBox VMs/HomeLab Domain Controller/HomeLab Domain Controller.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:05.127985 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:05.128048 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:05.128057 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:05.128087 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/luke/VirtualBox VMs/HomeLab Workstation/Snapshots/{6afcd26a-0817-4cf7-ad99-e5134dd0bc7f}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:05.128097 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/luke/VirtualBox VMs/HomeLab Workstation/Snapshots/{3858590b-5108-4d2d-b513-32aee1cba93e}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:05.128105 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/luke/VirtualBox VMs/HomeLab Workstation/HomeLab Workstation.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:05.128288 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:05.128300 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:05.128565 main     HostDnsMonitor: shutting down ...
+00:00:05.128622 main     HostDnsMonitor: shut down
+00:00:05.145676 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:05.145748 main     VirtualBox: object deleted

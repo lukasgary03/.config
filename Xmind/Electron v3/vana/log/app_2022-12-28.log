@@ -1,0 +1,91 @@
+
+-------- SESSION 2022-12-28T15:38:24.704Z (22.08.2224+202209010010, linux, x64, 33573425152, XMIND LTD., vana_linux) --------
+[I 2022-12-28T15:38:24.732Z main:store:plugins:electron] current pid is "10215"
+[I 2022-12-28T15:38:24.759Z auto-updater] current version is "22.8.2224"
+[I 2022-12-28T15:38:25.044Z main:store:plugins:electron] Application will finish launching.
+[I 2022-12-28T15:38:25.048Z main:store:plugins:electron] Application arguments: ["/opt/Xmind/xmind"]
+[I 2022-12-28T15:38:25.057Z main:store:plugins:electron] Application is ready.
+[I 2022-12-28T15:38:25.069Z main:store:plugins:open-handler] Recover: Map(1) {
+  '1' => [
+    {
+      source: 'file:///home/luke/Documents/payoneer.xmind',
+      editorId: '003aa00dc99b344f0f7ce86aea'
+    }
+  ]
+}
+[I 2022-12-28T15:38:25.070Z main:store:plugins:activation-updater] Start updating subscription information periodically.
+[I 2022-12-28T15:38:25.070Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2022-12-28T15:38:25.070Z main:store:plugins:activation-updater] Start updating per-machine license information periodically.
+[I 2022-12-28T15:38:25.070Z main:store:plugins:activation-updater] Schedule refresh timeout(60000).
+[I 2022-12-28T15:38:25.223Z main:store:plugins:electron] Device ID: e7de247a-ffc2-4b00-9147-d3ad3133d4b3
+[I 2022-12-28T15:38:46.190Z snowbrush] db write {
+  'text/plain': 'https://api.payoneer.com\r\n\twelcome script',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-12-28T15:39:25.081Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-12-28T15:39:25.082Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-12-28T15:39:52.124Z snowbrush] db write {
+  'text/plain': 'https://social.payoneer.com\r\n\toracle cloud?',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-12-28T15:40:12.095Z snowbrush] db write {
+  'text/plain': 'https://pubs.payoneer.com\r\n\tjust picture?',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-12-28T16:39:25.083Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-12-28T16:39:25.083Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-12-28T17:17:40.325Z snowbrush] db write {
+  'text/plain': 'https://pubs.payoneer.com\r\n\tjust picture?',
+  'text/x-array-json': [ { data: [Object], xapPaths: [] } ],
+  'text/x-type': 'branch',
+  'text/x-other-object-json': {
+    relationship: [],
+    boundary: [],
+    summary: [],
+    sheetId: 'e32b2c9a67b8420c37534aca50'
+  },
+  xapInfoMap: {}
+}
+[I 2022-12-28T17:39:25.136Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-12-28T17:39:25.136Z main:store:plugins:activation-updater] Schedule refresh timeout(null).
+[I 2022-12-28T17:49:28.248Z snowbrush] Export image collect time: 79
+[I 2022-12-28T17:49:28.845Z snowbrush] Export image time: 676
+[I 2022-12-28T17:49:29.861Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2022-12-28T17:49:29.924Z main:store:plugins:editors:EditorFrame] Not find editor view: undefined file:///opt/Xmind/resources/app.asar/renderer/editor-frame.html?frameId=1&_apr=default
+[I 2022-12-28T17:49:29.987Z main:store:plugins:editors:EditorFrame] Frame 1 close
+[I 2022-12-28T17:49:30.033Z main:store:plugins:editors:EditorFrame] Frame 1 webContents destroyed
+[I 2022-12-28T17:49:30.117Z main:store:plugins:electron] All windows closed. Quit application....
+[I 2022-12-28T17:49:30.117Z main:store:plugins:electron] Application is intended to quit.
+[I 2022-12-28T17:49:30.117Z main:store:plugins:electron] Application status is quitting:  false
+[I 2022-12-28T17:49:30.117Z main:store:plugins:electron] Asking all editors to close their documents...
+[I 2022-12-28T17:49:30.117Z main:store:plugins:electron] All documents are closed.
+[I 2022-12-28T17:49:30.118Z main:store:plugins:activation-updater] Stop updating per-machine license information periodically.
+[I 2022-12-28T17:49:30.118Z main:store:plugins:activation-updater] Stop updating subscription information periodically.
+[I 2022-12-28T17:49:30.119Z main:store:plugins:electron] Application is intended to quit.
+[I 2022-12-28T17:49:30.119Z main:store:plugins:electron] Application status is quitting:  true
+[I 2022-12-28T17:49:30.119Z main:store:plugins:electron] Application will quit.
+[I 2022-12-28T17:49:30.119Z main:store:plugins:electron] Application quitted.

@@ -12,6 +12,7 @@ Places Icons Static Size=22
 [KPropertiesDialog]
 DisplayPort-0 HDMI-A-0 Height 2560x1080=443
 DisplayPort-0 HDMI-A-0 Width 2560x1080=405
+HDMI-A-1 HDMI-A-2 Window-Maximized 2560x1080 HDMI-A-2=true
 
 [MainWindow]
 MenuBar=Disabled

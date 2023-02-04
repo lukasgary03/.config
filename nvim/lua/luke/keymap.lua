@@ -22,5 +22,5 @@ keymap("n", "<C-Right>", ":vertical resize +2<CR>", opts)
 
 -- NvimTree
 keymap("n", "<leader>e", ":NvimTreeToggle<CR>", opts)
-
+keymap("n", "<leader>f", ":NvimTreeFindFile<CR>", opts)
 keymap('i', 'jk', '<ESC>', { noremap = true})
