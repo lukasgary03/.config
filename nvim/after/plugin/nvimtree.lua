@@ -8,15 +8,18 @@ if not config_status_ok then
   return
 end
 
+
 local tree_cb = nvim_tree_config.nvim_tree_callback
 
 nvim_tree.setup {
+    sort_by = "case_sensitive",
   update_focused_file = {
     enable = true,
     update_cwd = true,
   },
   renderer = {
     root_folder_modifier = ":t",
+    group_empty = true,
     icons = {
       glyphs = {
         default = "",
@@ -60,9 +63,16 @@ nvim_tree.setup {
     mappings = {
       list = {
         { key = { "l", "<CR>", "o" }, cb = tree_cb "edit" },
+        { key = "u", action = "dir_up" },
         { key = "h", cb = tree_cb "close_node" },
         { key = "v", cb = tree_cb "vsplit" },
       },
     },
   },
+  filters = {
+    dotfiles = true,
+  },
+  system_open = {
+      cmd = "vsplit",
+  }
 }

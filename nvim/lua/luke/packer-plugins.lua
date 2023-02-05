@@ -51,4 +51,7 @@ return require('packer').startup(function()
 
     --colorscheme
     use 'gruvbox-community/gruvbox'
+
+    --vim be good
+    use 'ThePrimeagen/vim-be-good'
 end)

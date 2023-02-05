@@ -24,3 +24,10 @@ keymap("n", "<C-Right>", ":vertical resize +2<CR>", opts)
 keymap("n", "<leader>e", ":NvimTreeToggle<CR>", opts)
 keymap("n", "<leader>f", ":NvimTreeFindFile<CR>", opts)
 keymap('i', 'jk', '<ESC>', { noremap = true})
+
+-- Moving up/down half page then recentering 
+keymap("n", "<C-d>", "<C-d>zz", opts)
+keymap("n", "<C-u>", "<C-u>zz", opts)
+
+-- vsplit
+keymap("n", "<leader>v", ":vsplit<CR>", opts)
