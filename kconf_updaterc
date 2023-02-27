@@ -1,9 +1,9 @@
 updateInfoAdded=true
 
 [ark.upd]
-ctime=1675536469
+ctime=1676595303
 done=add-hamburgermenu-to-toolbar
-mtime=1672748980
+mtime=1675190458
 
 [breath2tobreath.upd]
 ctime=1672763930
@@ -36,14 +36,14 @@ done=PlasmaVolume_DisableKMixAutostart
 mtime=1672778280
 
 [dolphin_detailsmodesettings.upd]
-ctime=1675536472
+ctime=1676595303
 done=rename-leading-padding
-mtime=1672739731
+mtime=1675181487
 
 [filepicker.upd]
-ctime=1675536469
+ctime=1676941476
 done=filepicker-remove-old-previews-entry
-mtime=1673506393
+mtime=1675612602
 
 [fonts_akregator.upd]
 ctime=1675536477
@@ -71,9 +71,9 @@ done=gtk_theme,dont_use_gtk_css_for_window_decorations,remove_deprecated_gtk4_op
 mtime=1672777323
 
 [gwenview.upd]
-ctime=1675536475
+ctime=1676595304
 done=SideBar_StatusBar_Rename,ImageView_AlphaBackgroundMode_Update,DeleteThumbnailSetting_Rename
-mtime=1672876487
+mtime=1675185148
 
 [icons_remove_effects.upd]
 ctime=1675536477
@@ -81,13 +81,13 @@ done=IconsRemoveEffects
 mtime=1675100532
 
 [katesession_migration.upd]
-ctime=1675536477
+ctime=1676595305
 done=migrate_kate_sessions_applet_to_kdeplasma-addons
-mtime=1672749080
+mtime=1675190559
 
 [kcalcrc.upd]
-ctime=1675536477
-mtime=1672749258
+ctime=1676595305
+mtime=1675190741
 
 [kcm_rename_plasma_desktop.upd]
 ctime=1675536489
@@ -105,9 +105,9 @@ done=kcminputrc_migrate_key_repeat
 mtime=1672777682
 
 [konsole_globalaccel.upd]
-ctime=1675536478
+ctime=1676595305
 done=konsole_globalaccel
-mtime=1672749594
+mtime=1675191077
 
 [krunnerglobalshortcuts2.upd]
 ctime=1675536477
@@ -150,28 +150,28 @@ done=split-variants
 mtime=1672777682
 
 [okular.upd]
-ctime=1675536488
+ctime=1676595308
 done=annotation-toolbar,builtin-annotations
-mtime=1672876637
+mtime=1675185440
 
 [spectacle_clipboard.upd]
-ctime=1675536490
+ctime=1676595308
 done=clipboard-settings-change
-mtime=1672743903
+mtime=1675185605
 
 [spectacle_newConfig.upd]
-ctime=1675536490
-mtime=1672743903
+ctime=1676595308
+mtime=1675185605
 
 [spectacle_rememberregion.upd]
-ctime=1675536490
+ctime=1676595308
 done=spectacle-migrate-rememberregion
-mtime=1672743903
+mtime=1675185605
 
 [spectacle_shortcuts.upd]
-ctime=1675536490
+ctime=1676595308
 done=spectacle-migrate-shortcuts
-mtime=1672743903
+mtime=1675185605
 
 [style_widgetstyle_default_breeze.upd]
 ctime=1675536477

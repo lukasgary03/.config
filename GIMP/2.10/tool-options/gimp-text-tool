@@ -1,6 +1,9 @@
 # GIMP gimp-text-tool options
 
 (palette "Color History")
-(font "Sans-serif")
+(font "Courier New")
+(font-size 36)
+(line-spacing 45)
+(box-mode fixed)
 
 # end of gimp-text-tool options
