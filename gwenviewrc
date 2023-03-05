@@ -1,6 +1,9 @@
 [$Version]
 update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
 
+[FullScreen]
+FullScreenModeActive=true
+
 [General]
 LastUsedVersion=210800
 SideBarPage=operations
@@ -10,40 +13,44 @@ Places Icons Auto-resize=false
 Places Icons Static Size=32
 
 [MainWindow]
-HDMI-A-0 HDMI-A-1=HDMI-A-0
+HDMI-A-0 HDMI-A-1=HDMI-A-1
 HDMI-A-0 HDMI-A-1 Height 1080x1920 HDMI-A-0=930
 HDMI-A-0 HDMI-A-1 Height 2560x1080=1031
+HDMI-A-0 HDMI-A-1 Height 2560x1080 HDMI-A-1=1029
 HDMI-A-0 HDMI-A-1 Width 1080x1920 HDMI-A-0=1054
 HDMI-A-0 HDMI-A-1 Width 2560x1080=1261
+HDMI-A-0 HDMI-A-1 Width 2560x1080 HDMI-A-1=838
 HDMI-A-0 HDMI-A-1 XPosition 1080x1920 HDMI-A-0=13
 HDMI-A-0 HDMI-A-1 XPosition 2560x1080=2366
+HDMI-A-0 HDMI-A-1 XPosition 2560x1080 HDMI-A-1=1080
 HDMI-A-0 HDMI-A-1 YPosition 1080x1920 HDMI-A-0=977
 HDMI-A-0 HDMI-A-1 YPosition 2560x1080=36
+HDMI-A-0 HDMI-A-1 YPosition 2560x1080 HDMI-A-1=0
 HDMI-A-1 HDMI-A-2 Window-Maximized 1080x1920 HDMI-A-1=true
 HDMI-A-1 HDMI-A-2 Window-Maximized 2560x1080 HDMI-A-2=true
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABB4AAAN9AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAA0YAAAPgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/lukas_wide.PNG
-File2[$e]=$HOME/Downloads/index2.png
-File3[$e]=$HOME/Downloads/index.png
-File4[$e]=$HOME/Downloads/wallpaper.jpg
-File5[$e]=$HOME/Downloads/wallpaper2.jpg
-File6[$e]=$HOME/Downloads/gruvbox_wallpaper.jpg
-File7[$e]=$HOME/Downloads/gruvbox_taller.jpg
-File8[$e]=$HOME/Downloads/tall.png
-File9[$e]=$HOME/Documents/flower.png
+File2[$e]=$HOME/Downloads/wallpaper.jpg
+File3[$e]=$HOME/Downloads/gruvbox_wallpaper.jpg
+File4[$e]=$HOME/Downloads/gruvbox_taller.jpg
+File5[$e]=$HOME/Downloads/tall.png
+File6[$e]=$HOME/Documents/flower.png
+File7[$e]=$HOME/Downloads/wallpaper2.jpg
+File8[$e]=$HOME/Downloads/index2.png
+File9[$e]=$HOME/Downloads/index.png
 Name1[$e]=lukas_wide.PNG
-Name2[$e]=index2.png
-Name3[$e]=index.png
-Name4[$e]=wallpaper.jpg
-Name5[$e]=wallpaper2.jpg
-Name6[$e]=gruvbox_wallpaper.jpg
-Name7[$e]=gruvbox_taller.jpg
-Name8[$e]=tall.png
-Name9[$e]=flower.png
+Name2[$e]=wallpaper.jpg
+Name3[$e]=gruvbox_wallpaper.jpg
+Name4[$e]=gruvbox_taller.jpg
+Name5[$e]=tall.png
+Name6[$e]=flower.png
+Name7[$e]=wallpaper2.jpg
+Name8[$e]=index2.png
+Name9[$e]=index.png
 
 [SideBar]
 InformationSplitterSizes=216,259
